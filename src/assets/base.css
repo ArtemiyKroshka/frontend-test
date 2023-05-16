@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.password-block
+
+.password-hint__rule {
+  font-size: 16px;
+}
+
+.password-hint__rule--pass {
+  text-decoration: line-through;
+}
+
+.password-check {
+  font-style: italic;
+  color: red;
+}
+
+.password__strong {
+  color: rgb(91, 156, 91);
+}
